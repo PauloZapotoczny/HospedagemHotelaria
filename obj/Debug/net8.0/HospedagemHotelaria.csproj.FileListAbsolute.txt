@@ -1,0 +1,14 @@
+C:\Projetos\HospedagemHotelaria\bin\Debug\net8.0\HospedagemHotelaria.exe
+C:\Projetos\HospedagemHotelaria\bin\Debug\net8.0\HospedagemHotelaria.deps.json
+C:\Projetos\HospedagemHotelaria\bin\Debug\net8.0\HospedagemHotelaria.runtimeconfig.json
+C:\Projetos\HospedagemHotelaria\bin\Debug\net8.0\HospedagemHotelaria.dll
+C:\Projetos\HospedagemHotelaria\bin\Debug\net8.0\HospedagemHotelaria.pdb
+C:\Projetos\HospedagemHotelaria\obj\Debug\net8.0\HospedagemHotelaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\HospedagemHotelaria\obj\Debug\net8.0\HospedagemHotelaria.AssemblyInfoInputs.cache
+C:\Projetos\HospedagemHotelaria\obj\Debug\net8.0\HospedagemHotelaria.AssemblyInfo.cs
+C:\Projetos\HospedagemHotelaria\obj\Debug\net8.0\HospedagemHotelaria.csproj.CoreCompileInputs.cache
+C:\Projetos\HospedagemHotelaria\obj\Debug\net8.0\HospedagemHotelaria.dll
+C:\Projetos\HospedagemHotelaria\obj\Debug\net8.0\refint\HospedagemHotelaria.dll
+C:\Projetos\HospedagemHotelaria\obj\Debug\net8.0\HospedagemHotelaria.pdb
+C:\Projetos\HospedagemHotelaria\obj\Debug\net8.0\HospedagemHotelaria.genruntimeconfig.cache
+C:\Projetos\HospedagemHotelaria\obj\Debug\net8.0\ref\HospedagemHotelaria.dll
